@@ -1,6 +1,6 @@
 body {
   font-family: 'Segoe UI', sans-serif;
-  background: #f0f4f8;
+  background: #a0c8ef;
   margin: 0;
   padding: 0;
   display: flex;
@@ -10,16 +10,16 @@ body {
 }
 
 .box{
-  background: white;
+  background: rgb(171, 94, 244);
   padding: 2rem;
   border-radius: 10px;
   box-shadow: 0 0 20px rgba(0,0,0,0.1);
   text-align: center;
-  width: 400px;
+  width: 1000px;
 }
 
 .quiz-image {
-  width: 80px;
+  width: 300px;
   margin-bottom: 1rem;
 }
 
@@ -28,7 +28,7 @@ body {
   margin: 0.5rem auto;
   padding: 0.5rem 1rem;
   width: 80%;
-  background: #007bff;
+  background: #a60681;
   color: white;
   border: none;
   border-radius: 5px;
