@@ -13,7 +13,44 @@ const questions = [
     question: "Who wrote 'Hamlet'?",
     options: ["Charles Dickens", "William Shakespeare", "Leo Tolstoy", "Mark Twain"],
     correct: "William Shakespeare"
-  }
+  },
+  {
+    question: "The Chipko Movement was related to?",
+    options: ["Women’s rights", "Forest conservation", "Farmer protest", "Industrialization"],
+    correct: "Forest conservation"
+  },
+  {
+    question: "What is the currency of Bangladesh?",
+    options: ["Taka", "Dollar", "Dinar", "Rupee"],
+    correct: "Taka"
+  },
+  {
+    question: "Which Indian city is known as the 'City of Joy'?",
+    options: ["Mumbai", "Kolkata", "Delhi", "Chennai"],
+    correct: "Kolkata"
+  },
+  {
+    question: "Which day is celebrated as World Environment Day?",
+    options: ["5th June", "22nd April", "1st May", "15th August"],
+    correct: "5th June"
+  },
+  {
+    question: "Which Indian state is famous for the Sun Temple at Konark?",
+    options: ["Odisha", "Rajasthan", "Madhya Pradesh", "Tamil Nadu"],
+    correct: "Odisha"
+  },
+  {
+    question: "The Quit India Movement was launched in which year?",
+    options: ["1930", "1942", "1919", "1920"],
+    correct: "1942"
+  },
+  {
+    question: "Which country is known as the 'Land of the Rising Sun'?",
+    options: ["China", "Japan", "Thailand", "Korea"],
+    correct: "Japan"
+  },
+
+  
 ];
 
 let currentIndex = 0;

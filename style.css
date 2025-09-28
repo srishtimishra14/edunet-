@@ -9,7 +9,7 @@ body {
   height: 100vh;
 }
 
-.container {
+.box{
   background: white;
   padding: 2rem;
   border-radius: 10px;
