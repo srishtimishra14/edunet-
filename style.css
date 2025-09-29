@@ -1,5 +1,5 @@
 body {
-  font-family: 'Segoe UI', sans-serif;
+  font-family: "Lucida Console", "Courier New", monospace;
   background: #a0c8ef;
   margin: 0;
   padding: 0;
@@ -42,11 +42,11 @@ body {
 }
 
 .correct {
-  background-color: #4CAF50 !important; /* green */
+  background-color: #4CAF50
 }
 
 .incorrect {
-  background-color: #f44336 !important; /* red */
+  background-color: #f44336 
 }
 
 #timer {
